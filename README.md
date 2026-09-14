@@ -78,12 +78,12 @@ Let Ri = Rf = 10 KΩ
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b46aa267-cce7-4614-b611-ba7fdd665264" />
 
   **MODEL GRAPH:**
-<img width="1600" height="928" alt="image" src="https://github.com/user-attachments/assets/47ed2b66-efdb-4ce2-9c7c-2dde097be610" />
 
+<img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/4b58f7d8-ed54-4391-be7a-7678acc9f89d" />
 
   **TABULATION:**
  
-<img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/4b58f7d8-ed54-4391-be7a-7678acc9f89d" />
+<img width="1600" height="928" alt="image" src="https://github.com/user-attachments/assets/47ed2b66-efdb-4ce2-9c7c-2dde097be610" />
 
 **GRAPH:**
 <img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/7e55e9f8-12bd-452d-855f-90a39f25d6b9" />
@@ -95,30 +95,34 @@ Let Ri = Rf = 10 KΩ
 
 
   **MODEL GRAPH:**
-<img width="1600" height="1085" alt="image" src="https://github.com/user-attachments/assets/f9441a38-3b71-4e78-8b6b-2e95547aefcf" />
 
-
-  **TABULATION:**
 <img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/389b83fc-884c-4dca-a9a5-b67a93e6d15d" />
 
+  **TABULATION:**
+<img width="1600" height="1085" alt="image" src="https://github.com/user-attachments/assets/f9441a38-3b71-4e78-8b6b-2e95547aefcf" />
+
 **GRAPH:**
-<img width="1600" height="905" alt="image" src="https://github.com/user-attachments/assets/7aff91af-f279-4503-a316-3f75c976d574" />
+
+<img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/7e55e9f8-12bd-452d-855f-90a39f25d6b9" />
+
+
 
   **BPF:**
   **CIRCUIT DIAGRAM**
-<img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/49201af2-1b40-4f5c-b563-ae555b34e7c1" />
+<img width="1600" height="905" alt="image" src="https://github.com/user-attachments/assets/7aff91af-f279-4503-a316-3f75c976d574" />
 
 
   **MODEL GRAPH:**
-
-<img width="1600" height="1144" alt="image" src="https://github.com/user-attachments/assets/2319ffaa-351c-4a3f-89ab-2cdd22025dd0" />
-
-  **TABULATION:**
 <img width="1600" height="651" alt="image" src="https://github.com/user-attachments/assets/74804550-6d64-4954-bd19-d079e4220cb7" />
 
-**GRAPH:**
 
-<img width="1600" height="1114" alt="image" src="https://github.com/user-attachments/assets/85dc7925-cbeb-4070-ace5-0bc559eb2ef5" />
+  **TABULATION:**
+
+<img width="1600" height="1114" alt="image" src="https://github.com/user-attachments/assets/3759d634-48f8-403c-a56a-eb18213afbbe" />
+
+**GRAPH:**
+<img width="1600" height="1144" alt="image" src="https://github.com/user-attachments/assets/a57f883b-560e-4656-a0e1-3b5408b19bb0" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
